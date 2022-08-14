@@ -1,5 +1,5 @@
 # Indigo-Card-Game
-This project was being made during my education on JetBrains Academy. This project is named "Indigo Card Game" (next ICG).
+This project was being made during my education on JetBrains Academy and its name is "Indigo Card Game".
 
 So, the rules are easy: you should take more points then your opponent.
 
